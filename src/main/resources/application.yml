@@ -1,0 +1,6 @@
+# General configuration
+server:
+  port: 30307
+  servlet:
+    context-path: /kubesys
+    
